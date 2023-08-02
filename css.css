@@ -1,0 +1,79 @@
+body {
+    background-image:
+    url("Log in.jpg");
+    background-size: 
+    90pc;
+}
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+}
+.Home {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.B1 {
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: skyblue;
+}
+.B1:hover {
+    background-color: blue;
+}
+.a1 {
+    font-size: 20px;
+    color: green;
+}
+.a1:hover {
+    color: black;
+}
+.R1 {
+    font-size: 35px;
+    color: gold;
+}
+.New {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 38%;
+}
+.s1 {
+    margin-left: 10%;
+}
+.s2 {
+    margin-left: 1.3%;
+}
+.s3 {
+    margin-left: 3.5%;
+}
+.s4 {
+    margin-left: 6.7%;
+}
+.s5 {
+    margin-left: 6.4%;
+}
+.s6 {
+    margin-left: 7.8%;
+}
+.s7 {
+    margin-left: 11%;
+}
+.B2 {
+    background-color: greenyellow;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: skyblue;
+}
+.B2:hover {
+    background-color: red;
+    color: black;
+}
+.a2 {
+    text-decoration: none;
+}

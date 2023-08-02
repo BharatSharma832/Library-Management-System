@@ -1,0 +1,93 @@
+body {
+    background-image: url("Home.jpg");
+    background-size: 90pc;
+}
+h1 {
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+}
+h2 {
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+button {
+    background-color: transparent;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: transparent;
+}
+.a2 {
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+}
+.y1 {
+    background-color: purple;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: transparent;
+    margin-left: 13%;
+}
+.y2 {
+    background-color: purple;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: transparent;
+    margin-left: 10%;
+}
+.y3 {
+    background-color: purple;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: transparent;
+    margin-left: 10%;
+}
+.y4 {
+    background-color: purple;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 25px;
+    border-color: transparent;
+    margin-left: 10%;
+}
+a {
+    text-decoration: none;
+    color: gold;
+}
+a:hover {
+    color: red;
+}
+button:hover {
+    background-color: transparent;
+}
+.b5 {
+    margin-left: 80px;
+}
+.b4 {
+    margin-left: 80px;
+}
+.b3 {
+    margin-left: 80px;
+}
+.b2 {
+    margin-left: 80px;
+}
+.b1 {
+    margin-left: 180px;
+}
